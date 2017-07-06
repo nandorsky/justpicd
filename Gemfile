@@ -15,15 +15,11 @@ gem 'coffee-rails', '~> 4.1.0'
 
 gem 'devise'
 
-gem 'omniauth-facebook'
-
 gem 'paperclip', '~> 4.2'
 
 gem 'font-awesome-rails'
 
 gem 'aws-sdk', '< 2.0'
-
-gem 'acts_as_votable', '~> 0.10.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
